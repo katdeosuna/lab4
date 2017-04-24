@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	margin: 0px;
+}
+h1 {
+	color: red;
+	padding: 10px; 
+	clear: both;
+
+}
+h2 {
+	color: gray;
+	text-align: center;
+	padding: 10px; 
+	font-weight: 100;
+	
+}
+h3 {
+	padding: 10px; 
+}
+p {
+	width: 300px;
+	padding: 10px; 
+}
+hr {
+	width: 75%;
+	margin-left: 0px;
+	margin-top: -4px;
+	
+}
+.blackbox {
+	background-color: black;
+	width: 50%;
+	float: left;
+}
+.blackbox img {
+	margin-bottom: -4px;
+
+}
+.whitetextdiv {
+	color: white;
+	background-color: black;
+	width: 50%;
+	float: left;
+	height: 221px;
+	padding-top: 300px
+}
+.whitetext {
+	padding: 0px;
+	
+	
+}
+.adobelogo {
+	float: right;
+	width: 150px;
+}
