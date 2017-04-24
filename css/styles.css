@@ -38,7 +38,7 @@ hr {
 	margin-bottom: -4px;
 
 }
-.whitetextdiv {
+.whitetextdiv { 
 	color: white;
 	background-color: black;
 	width: 50%;
@@ -47,11 +47,11 @@ hr {
 	padding-top: 300px
 }
 .whitetext {
-	padding: 0px;
-	
+	padding: 0px; /*overrides p tag*/
 	
 }
 .adobelogo {
 	float: right;
 	width: 150px;
+
 }
